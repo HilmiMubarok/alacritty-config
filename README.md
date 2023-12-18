@@ -68,5 +68,5 @@ This repository contains the configuration for Alacritty, a fast and cross-platf
   - Insert: Insert
   - Delete: Delete
 
-Feel free to customize and enhance this configuration according to your preferences. Happy coding!
+Feel free to customize and enhance this configuration according to your preferences.
 
